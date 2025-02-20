@@ -1,3 +1,4 @@
+print("devops first practical but changed in third practical")
 a = 10
 b = 20
 c = 30
